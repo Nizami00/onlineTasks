@@ -1,8 +1,8 @@
 <?php
-
+require_once 'StorageInterface.php';
 require_once 'MakeNumbers.php';
 require_once 'NumberStorage.php';
-require_once 'StorageInterface.php';
+
 
 $numberStorage = new NumberStorage('random_numbers.txt');
 $makeNumbers = new MakeNumbers();
