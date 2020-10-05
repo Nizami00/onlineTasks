@@ -1,6 +1,6 @@
 <?php
 
-//require_once 'StorageInterface.php';
+
 
 class NumberStorage implements StorageInterface
 {
