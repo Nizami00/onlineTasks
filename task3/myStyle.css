@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+
+body {
+    background-color: #EEE2DC;
+    font-family: 'Jamoer', 'Bull', sans-serif;
+}
+
+header {
+    background: #EDC7B7;
+    padding: 10px;
+    width: 50%;
+    border-radius: 25px;
+    margin: auto;
+}
+
+header > h1 {
+    font-family: 'Palatino', sans-serif;
+    color: #AC3B61;
+    text-align: center;
+}
+
+.types {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.types {
+    border: 4px solid #61605d;
+    border-radius: 50%;
+    display: inline-block;
+    padding: 10px;
+    margin: 0 20px;
+    transition: all 0.3s ease;
+    background: #EEE2DC;
+
+}
+
+.types:hover {
+    cursor: pointer;
+    background: #EDC7B7;
+}
+
+.types > img {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    /*filter: invert(100%);*/
+
+}
+
+.choices {
+    position: absolute;
+    bottom: 20%;
+    right: 25%;
+
+}
+
+.move {
+    margin-top: 600px;
+    text-align: center;
+    color: #AC3B61;
+    font-family: 'Palatino', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.userChoice {
+    position: absolute;
+    bottom: 60%;
+    left: 425px;
+    pointer-events: none;
+    background: #EDC7B7;
+}
+
+.descriptionText {
+    color: #AC3B61;
+    text-align: center;
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+    position: relative;
+    top: -550px;
+    font-size: 30px;
+}
+
+.computerChoice {
+    position: absolute;
+    bottom: 60%;
+    right: 425px;
+    pointer-events: none;
+    background: #EDC7B7;
+}

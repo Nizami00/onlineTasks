@@ -16,21 +16,12 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="955396d0-8773-4795-9672-0f41e314e891" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/products/Storage.php" afterDir="false" />
+    <list default="true" id="ecba0a32-6be8-4dff-8314-4ff768e515a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../task1/Numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task1/Numbers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/products/Product.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Storage.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1iGsjK2n2WAMkbmVNP0FrlB4W8R" />
+  <component name="ProjectId" id="1iMYlTp7377EfKh0ZZ9aYG7CTFt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -57,26 +48,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/products" />
-      <recent name="$PROJECT_DIR$/customers" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="955396d0-8773-4795-9672-0f41e314e891" name="Default Changelist" comment="" />
-      <created>1601545396602</created>
+      <changelist id="ecba0a32-6be8-4dff-8314-4ff768e515a9" name="Default Changelist" comment="" />
+      <created>1601719079735</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601545396602</updated>
-      <workItem from="1601545397783" duration="524000" />
-      <workItem from="1601572434735" duration="37355000" />
+      <updated>1601719079735</updated>
+      <workItem from="1601719080948" duration="6462000" />
+      <workItem from="1601813750738" duration="51000" />
+      <workItem from="1601883523408" duration="2530000" />
     </task>
     <servers />
   </component>
@@ -93,15 +84,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="301" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601813443360">
+    <state x="447" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601722700387">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="301" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1601813443360" />
-    <state x="385" y="222" width="670" height="676" key="search.everywhere.popup" timestamp="1601582939686">
+    <state x="447" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1601722700387" />
+    <state x="523" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1601724810048">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="222" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1601582939686" />
+    <state x="523" y="149" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1601724810048" />
+    <state x="385" y="222" width="670" height="676" key="search.everywhere.popup" timestamp="1602089118709">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="222" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1602089118709" />
   </component>
 </project>

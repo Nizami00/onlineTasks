@@ -3,10 +3,10 @@
 class Product
 {
     private string $name;
-    private float $price;
+    private int $price;
     private int $quantity;
 
-    public function __construct(string $name, float $price, int $quantity = 1)
+    public function __construct(string $name, int $price, int $quantity = 1)
     {
         $this->name = $name;
         $this->price = $price;
@@ -32,6 +32,8 @@ class Product
     {
         $this->quantity -= $amount;
     }
+
+
 
 
 
